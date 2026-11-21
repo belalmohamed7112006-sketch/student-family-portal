@@ -939,3 +939,19 @@
       if (error) {
         console.error(error);
         return;
+
+      }
+
+      if (data.session) {
+        await loadApp();
+      }
+
+    });
+
+  }
+
+})();
+</script>
+
+</body>
+</html>
