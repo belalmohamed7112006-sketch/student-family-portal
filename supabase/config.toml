@@ -1,5 +1,0 @@
-
-project_id = "ybsmdlfjcjrumvbnguls"
-
-[functions.manage-user-account]
-verify_jwt = false
